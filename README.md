@@ -22,3 +22,4 @@ jsPsych7
 -- temochiz-2021-tutorial
 
 # 実行方法
+index.html のクリックで実行します。
