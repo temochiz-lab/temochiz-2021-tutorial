@@ -30,7 +30,7 @@ var hello = {
 var eyepoint = {
   type: jsPsychHtmlKeyboardResponse,
   stimulus: '<p style="font-size: 48px;">+</p>',
-  choices: jsPsych.NO_KEYS,
+  choices: "NO_KEYS",
   trial_duration: 1000,
 };
 
