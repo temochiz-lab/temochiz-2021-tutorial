@@ -1,8 +1,8 @@
 # temochiz-2021-tutorial
-jsPsych ver.7用テストプロダクト
+jsPsych ver.7.0.0 用テストプロダクト
 
 # 概要
-jsPsych ver.7をテストするために作成してみました。  
+jsPsych ver.7.0.0 をテストするために作成してみました。  
 魚や、魚っぽい画像が出てくるので、どの程度魚っぽいのかを回答するプログラムです。  
 ![実験中画面](screenshot/screen1.png)
 
@@ -15,7 +15,7 @@ jsPsych ver.7をテストするために作成してみました。
 6.終了メッセージ  
 
 # インストール方法
-jsPsych7 をインストールしたディレクトリ内に、コピーしておきます。  
+jsPsych7.0.0(https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0) をインストールしたディレクトリ内に、コピーしておきます。  
 こんなディレクトリ構成になります。  
   
 jsPsych7  
