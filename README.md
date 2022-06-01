@@ -15,7 +15,7 @@ jsPsych ver.7.0.0 をテストするために作成してみました。
 6.終了メッセージ  
 
 # インストール方法
-jsPsych7.0.0(https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0) をインストールしたディレクトリ内に、コピーしておきます。  
+[jsPsych7.0.0](https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0) をインストールしたディレクトリ内に、コピーしておきます。  
 こんなディレクトリ構成になります。  
   
 jsPsych7  
